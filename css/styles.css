@@ -1,5 +1,20 @@
 .attention {
   text-align: center;
-  font-family: fantasy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-shadow: 5px 5px 10px teal;
+  Margin-top: 75px;
+  
+}
+.navfont {
+  font-family: inherit;
+}
+.about-me {
+  text-align: center;
+  font-family: initial;
+  margin-top: 100px;
+}
+.box1 {
+  margin: 12px;
+  border: 2px lightslategray;
+  padding: 4px;
 }
