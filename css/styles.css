@@ -24,3 +24,9 @@ img {
   border-color: teal; 
   border-style: solid;
 }
+
+.myprojects {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 80px;
+}
