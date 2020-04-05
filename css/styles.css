@@ -1,8 +1,8 @@
 .attention {
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  text-shadow: 10px 10px 10px teal;
-  Margin-top: 5px;
+  text-shadow: 20px 20px 10px teal;
+  Margin-top: 1px;
 }
 .navfont {
   font-family: inherit;
@@ -21,7 +21,7 @@ img {
 
 .border {
   border-width: 5px; 
-  border-color: teal; 
+  border-color: rgb(63, 235, 235); 
   border-style: solid;
 }
 
