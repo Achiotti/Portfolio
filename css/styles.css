@@ -29,10 +29,17 @@ img {
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   margin-top: 80px;
+  margin-bottom: 50px;
 }
 
 .head {
   text-align: center;
   Font-weight: bold;
   font-style: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.border-small {
+  border-width: 1px;
+  border-color: darkblue;
+  border-style: solid;
 }
