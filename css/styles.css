@@ -11,9 +11,10 @@
   text-align: center;
   font-family: initial;
   margin-top: 100px;
+  margin-left: 250px;
 }
-.box-one {
-  margin: 12px;
-  border: 2px lightslategray;
-  padding: 4px;
+
+img {
+  Margin-top: 100px;
+  float: left;
 }
