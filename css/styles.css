@@ -18,3 +18,9 @@ img {
   Margin-top: 100px;
   float: left;
 }
+
+.border {
+  border-width: 5px; 
+  border-color: teal; 
+  border-style: solid;
+}
