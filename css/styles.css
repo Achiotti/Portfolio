@@ -1,7 +1,7 @@
 .attention {
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  text-shadow: 5px 5px 10px teal;
+  text-shadow: 10px 10px 10px teal;
   Margin-top: 5px;
 }
 .navfont {
@@ -10,8 +10,8 @@
 .about-me {
   text-align: center;
   font-family: initial;
-  margin-top: 100px;
-  margin-left: 250px;
+  margin-top: 90px;
+  margin-left: 300px;
 }
 
 img {
