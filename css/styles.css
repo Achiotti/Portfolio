@@ -43,3 +43,25 @@ img {
   border-color: darkblue;
   border-style: solid;
 }
+
+.contact {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 100px;
+  margin-bottom: 110px;
+
+}
+
+.box {
+  margin: 10px;
+  border: 70px teal;
+  padding: 4px;
+  background-color: whitesmoke;
+}
+
+.email {
+  text-align: center;
+  Font-weight: bold;
+  font-style: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+}
