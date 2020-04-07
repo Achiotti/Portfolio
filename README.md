@@ -19,7 +19,7 @@ _For instructions to install git, you may access Epicodus' free online coding cu
 
 ## Known Bugs
 
-_None immediatly obvious._
+_The border is not showing up around the Box Model with contact information. And the Contact Me section of the Navbar will not link to the Let's Work Together section of the webpage._
 
 ## Support and contact details
 
