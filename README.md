@@ -1,4 +1,4 @@
-# _Andrea Chiotti's Portfolio}_
+# _Andrea Chiotti's Portfolio_
 
 #### _1st Independent Project for Intro Class at Epicodus, 4.4.20_
 
