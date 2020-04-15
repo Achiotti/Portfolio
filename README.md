@@ -2,7 +2,7 @@
 
 #### _1st Independent Project for Intro Class at Epicodus, 4.4.20_
 
-#### By _**Andrea Chiotti}**_
+#### By _**Andrea Chiotti**_
 
 ## This webpage is a practice page and ongoing project for learning web development. It will practicing using git, Github, html, README, css, and bootstrap. It will include inline and blcok elements as well as various HTML tags and design elements. 
 
@@ -10,7 +10,7 @@ _This project display the first draft of a professional web development portfoli
 
 ## Setup/Installation Requirements
 
-* _Clone this repository._
+* _Clone this repository (https://github.com/Achiotti/Portfolio.git)._
 * _Create a branch and name it with the editor's name._
 * _Commit edits and save to Github for Andrea's reveiw._
 * _A text editor, git installed, Bootstrap downloaded, and a Github account._
@@ -33,4 +33,4 @@ _HTML, CSS, Bootstrap_
 
 *MIT*
 
-Copyright (c)20 **_Andrea Chiotti_**
+Copyright (c)2020 **_Andrea Chiotti_**
